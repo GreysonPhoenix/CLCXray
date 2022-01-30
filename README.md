@@ -11,5 +11,6 @@ The annotations are made in COCO format.
 - The images and the corresponding annotation results can only be used for ACADEMIC PURPOSES. NO COMERCIAL USE is allowed
 - Copyright © Visual and Intelligent Learning Lab, Tongji University (Tongji). All rights reserved.
 ## DOWNLOAD
-- Download the entire dataset in COCO format from [here](https://pan.baidu.com/s/1fYwxiyGG8cJndebMO4Bn9A) (password: clcx). 
+- Download the entire dataset in COCO format from [baidu yun](https://pan.baidu.com/s/1fYwxiyGG8cJndebMO4Bn9A) (password: clcx). 
+  or [google drive](https://drive.google.com/drive/folders/1lzRp_prNwQU8w-rRYZrf4YpAFm4pGCUQ?usp=sharing)
 - Download part of 16-bit raw images from [here](https://pan.baidu.com/s/1o0A8LgSHHeLGX4t4KMNd-w) (password: clcx).
